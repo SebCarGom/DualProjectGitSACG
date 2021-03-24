@@ -1,7 +1,7 @@
 package com.everis.git;
 
 /*
- * Projecto Dual Git 
+ * Formacion GIT
  * 
  * @author	everis
  * 
@@ -9,7 +9,7 @@ package com.everis.git;
 public class AppMain {
 
 	/*
-	 * Método principal
+	 * Metodo principal.
 	 * 
 	 * @param args
 	 */
