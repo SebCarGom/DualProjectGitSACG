@@ -3,7 +3,7 @@ package com.everis.git;
 /*
  * Formacion GIT
  * 
- * @author	everis
+ * @author everis
  * 
  */
 public class AppMain {
@@ -14,6 +14,6 @@ public class AppMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hola Mundo");
+		System.out.println("Hola Mundo Dual");
 	}
 }
